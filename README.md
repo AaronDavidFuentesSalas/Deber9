@@ -46,6 +46,10 @@
 
 ![image](https://user-images.githubusercontent.com/105386939/187318354-e549ebe3-0e30-4dd6-bbe0-4d746199f8c0.png)
 
+4.VIDEO
+
+https://youtu.be/6JwX9fnjPqc
+
 5.CONLUSIONES
 
 • Se puede hacer un análisis de circuitos RLC en serie y en paralelo, podemos ver que algunos casos pordemos usar las mismas formulas para encontrar diferentes parametros, vemos las relacion inversas que tienen y como se comportan estos circuitos formados por inductores, capacitores y resistencias.
