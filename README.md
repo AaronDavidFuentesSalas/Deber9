@@ -45,3 +45,24 @@
 ![image](https://user-images.githubusercontent.com/105386939/187318287-bff858d7-2d22-4f89-9216-c7cd5a09ba57.png)
 
 ![image](https://user-images.githubusercontent.com/105386939/187318354-e549ebe3-0e30-4dd6-bbe0-4d746199f8c0.png)
+
+5.CONLUSIONES
+
+• Se puede hacer un análisis de circuitos RLC en serie y en paralelo, podemos ver que algunos casos pordemos usar las mismas formulas para encontrar diferentes parametros, vemos las relacion inversas que tienen y como se comportan estos circuitos formados por inductores, capacitores y resistencias.
+
+• La impedancia calculada nos da los resultados totales o de los componentes que conforman el circuito, podemos obtener la corriente y el voltaje usando la ley de Ohm,tenemos tambien diferentes filtros que nos van a ayudar a seleccionar el tipo de frecuencia que necesitamos. si queremos frecuencias altas o bajas el ancho de banda que nos da un limite superior e inferior.
+
+6.RUBRICA
+
+![image](https://user-images.githubusercontent.com/105386939/187318587-78848574-4780-4faf-b3a8-fbcec84e0819.png)
+
+
+7.BIBLIOGRAFIAS
+
+LOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición.
+
+García ,A.(2013) Ley de los voltajes de Kirchhoff: Método de Mallas.
+
+Charles Alexander, Matthew Sadiku. Fundamento de circuitos eléctricos.
+
+Milton Gussonw, Mexico McGraw-Hill.(1985). FUNDAMENTOS DE ELECTRICIDAD
